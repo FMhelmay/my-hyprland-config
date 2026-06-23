@@ -1,4 +1,4 @@
-<img src="Config Preview.jpeg" width="200">
+<img src="Config Preview.jpeg">
 
 Спасибо большое JaKooLit! https://github.com/JaKooLit
 Благодаря этому репозиторию мне не пришлось изучать все с нуля!
